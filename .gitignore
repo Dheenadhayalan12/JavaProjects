@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+out/
+build/
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
